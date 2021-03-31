@@ -1,4 +1,4 @@
-# shopping_mall11111111111111111
+# shopping_mal
 
 ## Project setup
 ```
